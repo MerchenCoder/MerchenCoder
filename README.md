@@ -1,5 +1,5 @@
 # MerchenCoder
-EWHA 2023 컴퓨터공학전공 캡스톤디자인과창업 프로젝트
+EWHA 2023 컴퓨터공학전공 캡스톤디자인과창업 프로젝트 <br>
 Team 12. 팀팀탱탱후라이팬
 
 FE : [UnityBuildMerchenCoder](https://github.com/MerchenCoder/UnityBuildMerchenCoder.git)
